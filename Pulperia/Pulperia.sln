@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pulperia", "Pulperia.csproj", "{B631C357-3F61-4137-A2FF-1F3D5E97FD1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B631C357-3F61-4137-A2FF-1F3D5E97FD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B631C357-3F61-4137-A2FF-1F3D5E97FD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B631C357-3F61-4137-A2FF-1F3D5E97FD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B631C357-3F61-4137-A2FF-1F3D5E97FD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9E85EBA-3260-4503-97B1-CB76EF0FCE2F}
+	EndGlobalSection
+EndGlobal

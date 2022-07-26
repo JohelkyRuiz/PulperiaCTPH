@@ -1,0 +1,20 @@
+C:\Users\CTPH\Documents\Ejercicios de programación - Moisés Hinostroza (12-3)\Pulperia\bin\Debug\Pulperia.exe.config
+C:\Users\CTPH\Documents\Ejercicios de programación - Moisés Hinostroza (12-3)\Pulperia\bin\Debug\Pulperia.exe
+C:\Users\CTPH\Documents\Ejercicios de programación - Moisés Hinostroza (12-3)\Pulperia\bin\Debug\Pulperia.pdb
+C:\Users\CTPH\Documents\Ejercicios de programación - Moisés Hinostroza (12-3)\Pulperia\obj\Debug\Pulperia.csproj.AssemblyReference.cache
+C:\Users\CTPH\Documents\Ejercicios de programación - Moisés Hinostroza (12-3)\Pulperia\obj\Debug\Pulperia.Form1.resources
+C:\Users\CTPH\Documents\Ejercicios de programación - Moisés Hinostroza (12-3)\Pulperia\obj\Debug\Pulperia.Properties.Resources.resources
+C:\Users\CTPH\Documents\Ejercicios de programación - Moisés Hinostroza (12-3)\Pulperia\obj\Debug\Pulperia.csproj.GenerateResource.cache
+C:\Users\CTPH\Documents\Ejercicios de programación - Moisés Hinostroza (12-3)\Pulperia\obj\Debug\Pulperia.csproj.CoreCompileInputs.cache
+C:\Users\CTPH\Documents\Ejercicios de programación - Moisés Hinostroza (12-3)\Pulperia\obj\Debug\Pulperia.exe
+C:\Users\CTPH\Documents\Ejercicios de programación - Moisés Hinostroza (12-3)\Pulperia\obj\Debug\Pulperia.pdb
+C:\Users\CTPH\Desktop\Pulperia\bin\Debug\Pulperia.exe.config
+C:\Users\CTPH\Desktop\Pulperia\bin\Debug\Pulperia.exe
+C:\Users\CTPH\Desktop\Pulperia\bin\Debug\Pulperia.pdb
+C:\Users\CTPH\Desktop\Pulperia\obj\Debug\Pulperia.csprojAssemblyReference.cache
+C:\Users\CTPH\Desktop\Pulperia\obj\Debug\Pulperia.Form1.resources
+C:\Users\CTPH\Desktop\Pulperia\obj\Debug\Pulperia.Properties.Resources.resources
+C:\Users\CTPH\Desktop\Pulperia\obj\Debug\Pulperia.csproj.GenerateResource.cache
+C:\Users\CTPH\Desktop\Pulperia\obj\Debug\Pulperia.csproj.CoreCompileInputs.cache
+C:\Users\CTPH\Desktop\Pulperia\obj\Debug\Pulperia.exe
+C:\Users\CTPH\Desktop\Pulperia\obj\Debug\Pulperia.pdb
